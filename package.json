@@ -2,9 +2,9 @@
   "name": "ahj-homeworks-rxjs-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
@@ -23,5 +23,5 @@
   }
 }
 
-   // "start": "nodemon server.js"
-     // "main": "server.js",
+ 
+     
